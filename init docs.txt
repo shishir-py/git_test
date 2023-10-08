@@ -1,3 +1,7 @@
 This is a project regarding the team work procedures
  in commiting for a single project and collaborating 
 with one of my friend Gokul Singh Gaud
+
+
+
+docs file updated
